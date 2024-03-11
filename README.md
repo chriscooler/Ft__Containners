@@ -1,7 +1,7 @@
 
 # "Ft__containers"
 
-C++ containers, simply put
+C++ containers, tout simplement!
 
 ## Summary:
 C++ containers each have a specific use.
@@ -33,7 +33,6 @@ You must also implement:
 - ([`std::pair`](https://cplusplus.com/reference/utility/pair/pair/))
 -([`std::make_pair`](https://cplusplus.com/reference/utility/make_pair/))
 
-You can pass this project without the stack (80/100). However, if you want to do the bonus part, you must have implemented the 3 mandatory containers.
 
 ### Prerequisites
 - The namespace must be `ft`.
